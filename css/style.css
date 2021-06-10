@@ -1,7 +1,7 @@
 body {
   color: #fff;
   font-family: "Robobto", sans-serif;
-  background: #14131a url("/img/background.jpg") no-repeat center / 100%;
+  background: #14131a url("../img/background.jpg") no-repeat center / 100%;
 }
 
 .container {
@@ -93,8 +93,8 @@ body {
 }
 
 .primery-bg {
-  background: url("/img/blood.png") no-repeat top right,
-    #14131a url("/img/background.jpg") no-repeat center / 100%;
+  background: url("../img/blood.png") no-repeat top right,
+    #14131a url("../img/background.jpg") no-repeat center / 100%;
 }
 
 .content {
